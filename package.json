@@ -91,6 +91,7 @@
     "silent": false
   },
   "dependencies": {
-    "@antv/f2": "~3.2.2"
+    "@antv/f2": "~3.2.2",
+    "wolfy87-eventemitter": "^5.2.5"
   }
 }
